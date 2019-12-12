@@ -1,0 +1,360 @@
+2019-08-09 09:46:13,573 - INFO - Listando alunos.
+2019-08-09 09:46:13,596 - INFO - []
+2019-08-14 11:13:50,977 - INFO - Cadastrando turno.
+2019-08-14 11:16:36,601 - INFO - Cadastrando turno.
+2019-08-14 11:29:21,648 - INFO - Cadastrando turno.
+2019-08-14 11:29:52,705 - INFO - Cadastrando turno.
+2019-08-14 11:35:31,547 - INFO - Cadastrando turno.
+2019-08-14 13:45:27,654 - INFO - Cadastrando turno.
+2019-08-14 14:10:04,341 - INFO - Cadastrando turno.
+2019-08-14 14:11:39,161 - INFO - Cadastrando turno.
+2019-08-14 14:11:39,222 - ERROR - Aconteceu um erro.
+2019-08-14 14:11:39,222 - ERROR - Exceção: name 'nome' is not defined
+2019-08-14 14:14:45,401 - INFO - Cadastrando turno.
+2019-08-14 14:20:49,743 - INFO - Cadastrando turno.
+2019-08-14 14:21:08,048 - INFO - Cadastrando turno.
+2019-08-14 14:21:19,613 - INFO - Cadastrando turno.
+2019-08-14 14:22:29,428 - INFO - Cadastrando turno.
+2019-08-14 14:27:25,985 - INFO - Listando turnos.
+2019-08-14 14:28:08,813 - INFO - Cadastrando turno.
+2019-08-14 14:33:34,854 - INFO - Cadastrando turno.
+2019-08-14 14:33:54,155 - INFO - Listando turnos.
+2019-08-14 14:39:41,930 - INFO - Cadastrando endereco.
+2019-08-14 14:40:35,642 - INFO - Cadastrando endereco.
+2019-08-14 14:40:45,277 - INFO - Listando endereços.
+2019-08-14 14:45:45,184 - INFO - Cadastrando campus.
+2019-08-14 14:49:56,904 - INFO - Cadastrando campi.
+2019-08-14 14:50:17,260 - INFO - Cadastrando campi.
+2019-08-14 14:50:24,734 - INFO - Listando campi.
+2019-08-14 14:50:51,422 - INFO - Cadastrando campi.
+2019-08-14 14:54:56,434 - INFO - Listando campi.
+2019-08-14 14:58:26,295 - INFO - Cadastrando professor.
+2019-08-14 14:58:26,306 - ERROR - Aconteceu um erro.
+2019-08-14 14:58:26,306 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:01:11,088 - INFO - Cadastrando professor.
+2019-08-14 15:01:11,089 - ERROR - Aconteceu um erro.
+2019-08-14 15:01:11,089 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:01:28,032 - INFO - Cadastrando professor.
+2019-08-14 15:01:28,033 - ERROR - Aconteceu um erro.
+2019-08-14 15:01:28,033 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:01:36,317 - INFO - Listando professores.
+2019-08-14 15:01:54,669 - INFO - Listando professores.
+2019-08-14 15:01:55,379 - INFO - Listando professores.
+2019-08-14 15:02:06,915 - INFO - Listando professores.
+2019-08-14 15:02:34,639 - INFO - Cadastrando professor.
+2019-08-14 15:02:34,640 - ERROR - Aconteceu um erro.
+2019-08-14 15:02:34,640 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:02:42,907 - INFO - Listando professores.
+2019-08-14 15:02:54,966 - INFO - Listando professores.
+2019-08-14 15:04:17,795 - INFO - Listando professores.
+2019-08-14 15:07:45,464 - INFO - Cadastrando escola.
+2019-08-14 15:08:15,670 - INFO - Cadastrando escola.
+2019-08-14 15:08:24,826 - INFO - Listando escolas.
+2019-08-14 15:08:55,801 - INFO - Cadastrando escola.
+2019-08-14 15:09:07,323 - INFO - Listando escolas.
+2019-08-14 15:16:47,650 - INFO - Cadastrando aluno...
+2019-08-14 15:17:42,651 - INFO - Cadastrando aluno...
+2019-08-14 15:17:53,063 - INFO - Listando alunos.
+2019-08-14 15:20:00,489 - INFO - Cadastrando curso.
+2019-08-14 15:20:16,409 - INFO - Cadastrando curso.
+2019-08-14 15:20:23,267 - INFO - Listando cursos.
+2019-08-14 15:23:15,427 - INFO - Cadastrando turma.
+2019-08-14 15:23:23,994 - INFO - Cadastrando turma.
+2019-08-14 15:23:28,428 - INFO - Listando turmas.
+2019-08-14 15:25:03,018 - INFO - Cadastrando disciplina.
+2019-08-14 15:25:20,987 - INFO - Cadastrando disciplina.
+2019-08-14 15:25:27,662 - INFO - Listando disciplinas.
+2019-08-14 15:27:23,057 - INFO - Cadastrando professor.
+2019-08-14 15:27:23,057 - ERROR - Aconteceu um erro.
+2019-08-14 15:27:23,058 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:27:28,676 - INFO - Listando professores.
+2019-08-14 15:32:53,605 - INFO - Listando professores.
+2019-08-14 15:33:01,804 - INFO - Cadastrando professor.
+2019-08-14 15:34:18,333 - INFO - Cadastrando professor.
+2019-08-14 15:35:23,300 - INFO - Cadastrando professor.
+2019-08-14 15:35:23,376 - ERROR - Aconteceu um erro.
+2019-08-14 15:35:23,377 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:35:28,820 - INFO - Listando professores.
+2019-08-14 15:53:19,383 - INFO - Cadastrando professor.
+2019-08-14 15:53:19,384 - ERROR - Aconteceu um erro.
+2019-08-14 15:53:19,385 - ERROR - Exceção: NOT NULL constraint failed: tb_professor.cidade
+2019-08-14 15:53:24,306 - INFO - Listando professores.
+2019-08-14 15:55:35,950 - INFO - Listando professores.
+2019-08-14 15:55:35,950 - INFO - Professores listados com sucesso.
+2019-08-14 15:56:47,086 - INFO - Listando professores.
+2019-08-14 15:56:47,087 - INFO - Professores listados com sucesso.
+2019-08-14 15:56:48,419 - INFO - Listando professores.
+2019-08-14 15:56:48,420 - INFO - Professores listados com sucesso.
+2019-08-14 15:59:13,106 - INFO - Listando professores.
+2019-08-14 15:59:13,114 - INFO - Professores listados com sucesso.
+2019-08-14 15:59:14,660 - INFO - Listando professores.
+2019-08-14 15:59:14,661 - INFO - Professores listados com sucesso.
+2019-08-14 16:01:55,972 - INFO - Cadastrando professor.
+2019-08-14 16:02:07,314 - INFO - Listando professores.
+2019-08-14 16:02:07,315 - INFO - Professores listados com sucesso.
+2019-08-14 16:04:24,478 - INFO - Listando professores.
+2019-08-14 16:04:24,479 - INFO - Professores listados com sucesso.
+2019-08-14 16:04:33,417 - INFO - Cadastrando professor.
+2019-08-14 16:04:52,462 - INFO - Cadastrando professor.
+2019-08-14 16:05:01,861 - INFO - Listando professores.
+2019-08-14 16:05:01,861 - INFO - Professores listados com sucesso.
+2019-08-14 16:05:12,406 - INFO - Listando turnos.
+2019-08-14 16:05:19,607 - INFO - Cadastrando turno.
+2019-08-14 16:05:28,707 - INFO - Cadastrando turno.
+2019-08-14 16:05:37,598 - INFO - Cadastrando turno.
+2019-08-14 16:05:44,209 - INFO - Listando turnos.
+2019-08-14 16:05:52,024 - INFO - Cadastrando endereco.
+2019-08-14 16:06:35,647 - INFO - Cadastrando endereco.
+2019-08-14 16:06:41,621 - INFO - Listando endereços.
+2019-08-14 16:06:47,336 - INFO - Cadastrando campi.
+2019-08-14 16:07:02,460 - INFO - Cadastrando campi.
+2019-08-14 16:07:07,740 - INFO - Listando campi.
+2019-08-14 16:07:13,019 - INFO - Cadastrando escola.
+2019-08-14 16:07:22,861 - INFO - Cadastrando escola.
+2019-08-14 16:07:33,859 - INFO - Cadastrando escola.
+2019-08-14 16:07:40,675 - INFO - Listando escolas.
+2019-08-14 16:08:26,499 - INFO - Cadastrando aluno...
+2019-08-14 16:09:00,941 - INFO - Cadastrando aluno...
+2019-08-14 16:09:06,374 - INFO - Listando alunos.
+2019-08-14 16:09:11,737 - INFO - Cadastrando curso.
+2019-08-14 16:09:24,233 - INFO - Cadastrando curso.
+2019-08-14 16:09:28,108 - INFO - Listando cursos.
+2019-08-14 16:09:31,479 - INFO - Cadastrando turma.
+2019-08-14 16:09:38,504 - INFO - Cadastrando turma.
+2019-08-14 16:09:42,353 - INFO - Listando turmas.
+2019-08-14 16:09:45,769 - INFO - Cadastrando disciplina.
+2019-08-14 16:09:54,754 - INFO - Cadastrando disciplina.
+2019-08-14 16:09:59,774 - INFO - Listando disciplinas.
+2019-08-15 07:56:52,618 - INFO - Listando campi.
+2019-08-15 13:14:50,341 - INFO - Cadastrando endereco.
+2019-08-15 13:15:05,415 - INFO - Listando endereços.
+2019-08-15 13:15:58,695 - INFO - Cadastrando endereco.
+2019-08-15 13:16:03,986 - INFO - Listando endereços.
+2019-08-15 13:17:04,746 - INFO - Cadastrando campi.
+2019-08-15 13:17:17,165 - INFO - Listando campi.
+2019-08-15 13:17:35,264 - INFO - Listando turnos.
+2019-08-15 13:17:38,668 - INFO - Listando turnos.
+2019-08-15 13:17:49,913 - INFO - Listando disciplinas.
+2019-08-15 13:18:07,817 - INFO - Listando professores.
+2019-08-15 13:18:07,818 - INFO - Professores listados com sucesso.
+2019-08-16 10:34:35,504 - INFO - Cadastrando turma.
+2019-08-16 10:34:35,610 - INFO - Turma cadastrada com sucesso.
+2019-08-16 10:34:40,525 - INFO - Listando turmas.
+2019-08-16 10:34:40,526 - INFO - Turmas listadas com sucesso.
+2019-11-01 09:30:24,708 - INFO - Listando alunos.
+2019-11-01 09:30:24,731 - INFO - Alunos listado com sucesso.
+2019-12-06 08:59:44,957 - INFO - Cadastrando disciplina.
+2019-12-10 09:37:57,095 - INFO - Cadastrando turno.
+2019-12-10 09:42:51,468 - INFO - Cadastrando aluno...
+2019-12-10 09:44:32,361 - INFO - Cadastrando aluno...
+2019-12-10 09:57:59,435 - INFO - Cadastrando aluno...
+2019-12-11 08:57:08,766 - INFO - Cadastrando turno.
+2019-12-11 08:58:06,673 - INFO - Cadastrando turno.
+2019-12-11 09:00:13,023 - INFO - Cadastrando turno.
+2019-12-11 09:07:43,333 - INFO - Cadastrando turno.
+2019-12-11 09:08:37,602 - INFO - Cadastrando turno.
+2019-12-11 09:50:54,066 - INFO - Cadastrando turno.
+2019-12-11 09:56:52,307 - INFO - Cadastrando turno.
+2019-12-11 09:56:52,532 - INFO - Turno cadastrado com sucesso.
+2019-12-11 09:57:49,816 - INFO - Cadastrando aluno...
+2019-12-11 09:57:49,897 - INFO - Aluno Cadastrado com sucesso.
+2019-12-11 10:03:58,521 - INFO - Cadastrando endereco.
+2019-12-11 10:03:58,602 - INFO - Endereço cadastrado com sucesso.
+2019-12-11 10:05:54,454 - INFO - Cadastrando campus.
+2019-12-11 10:05:54,539 - INFO - campus cadastrado com sucesso.
+2019-12-11 10:05:58,191 - INFO - Cadastrando turno.
+2019-12-11 10:05:58,281 - INFO - Turno cadastrado com sucesso.
+2019-12-11 10:06:15,588 - INFO - Cadastrando curso.
+2019-12-11 10:06:15,657 - INFO - Curso cadastrado com sucesso.
+2019-12-11 10:06:24,790 - INFO - Cadastrando disciplina.
+2019-12-11 10:06:24,888 - INFO - Disciplina cadastrada com sucesso.
+2019-12-11 10:06:33,872 - INFO - Cadastrando turma.
+2019-12-11 10:06:33,948 - INFO - Turma cadastrada com sucesso.
+2019-12-11 10:09:20,141 - INFO - Cadastrando aluno...
+2019-12-11 10:09:20,217 - INFO - Aluno Cadastrado com sucesso.
+2019-12-11 10:10:10,053 - INFO - Cadastrando endereco.
+2019-12-11 10:10:10,134 - INFO - Endereço cadastrado com sucesso.
+2019-12-11 10:13:51,427 - INFO - Cadastrando turma.
+2019-12-11 10:13:51,504 - INFO - Turma cadastrada com sucesso.
+2019-12-11 10:14:33,940 - INFO - Cadastrando turma.
+2019-12-11 10:14:34,020 - INFO - Turma cadastrada com sucesso.
+2019-12-11 10:14:56,869 - INFO - Cadastrando curso.
+2019-12-11 10:14:56,953 - INFO - Curso cadastrado com sucesso.
+2019-12-11 10:15:14,606 - INFO - Cadastrando curso.
+2019-12-11 10:15:14,677 - INFO - Curso cadastrado com sucesso.
+2019-12-11 10:15:38,004 - INFO - Cadastrando turno.
+2019-12-11 10:15:38,083 - INFO - Turno cadastrado com sucesso.
+2019-12-11 10:15:43,626 - INFO - Cadastrando turno.
+2019-12-11 10:16:23,861 - INFO - Cadastrando professor.
+2019-12-11 10:17:45,593 - INFO - Cadastrando endereco.
+2019-12-11 10:17:45,674 - INFO - Endereço cadastrado com sucesso.
+2019-12-11 10:17:51,954 - INFO - Cadastrando endereco.
+2019-12-11 10:19:12,258 - INFO - Cadastrando professor.
+2019-12-12 10:44:41,759 - INFO - Cadastrando professor.
+2019-12-12 10:44:57,857 - INFO - Cadastrando professor.
+2019-12-12 10:47:09,833 - INFO - Cadastrando aluno...
+2019-12-12 10:47:09,984 - INFO - Aluno Cadastrado com sucesso.
+2019-12-12 10:53:56,583 - INFO - Cadastrando escola.
+2019-12-12 10:53:56,654 - INFO - Escola cadastrada com sucesso.
+2019-12-12 10:55:40,159 - INFO - Cadastrando professor.
+2019-12-12 11:07:12,021 - INFO - Cadastrando turno.
+2019-12-12 11:07:12,113 - INFO - Turno cadastrado com sucesso.
+2019-12-12 11:17:44,171 - INFO - Cadastrando escola.
+2019-12-12 11:17:44,256 - INFO - Escola cadastrada com sucesso.
+2019-12-12 11:21:09,653 - INFO - Cadastrando escola.
+2019-12-12 11:21:09,736 - INFO - Escola cadastrada com sucesso.
+2019-12-12 11:27:56,394 - INFO - Cadastrando campus.
+2019-12-12 11:27:56,470 - INFO - campus cadastrado com sucesso.
+2019-12-12 11:28:21,434 - INFO - Cadastrando disciplina.
+2019-12-12 11:28:21,511 - INFO - Disciplina cadastrada com sucesso.
+2019-12-12 11:35:58,861 - INFO - Listando disciplinas.
+2019-12-12 11:35:58,862 - INFO - Disciplinas listadas com sucesso.
+2019-12-12 11:35:59,047 - INFO - Listando disciplinas.
+2019-12-12 11:35:59,047 - INFO - Disciplinas listadas com sucesso.
+2019-12-12 11:36:16,371 - INFO - Listando alunos.
+2019-12-12 11:36:16,372 - INFO - Alunos listado com sucesso.
+2019-12-12 11:36:16,385 - INFO - Listando alunos.
+2019-12-12 11:36:16,386 - INFO - Alunos listado com sucesso.
+2019-12-12 11:36:26,769 - INFO - Listando endereços.
+2019-12-12 11:36:26,770 - INFO - Endereços listados com sucesso.
+2019-12-12 11:36:26,780 - INFO - Listando endereços.
+2019-12-12 11:36:26,781 - INFO - Endereços listados com sucesso.
+2019-12-12 11:36:41,595 - INFO - Listando escolas.
+2019-12-12 11:36:41,608 - INFO - Listando escolas.
+2019-12-12 11:36:53,596 - INFO - Listando professores.
+2019-12-12 11:36:53,597 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:53,604 - INFO - Listando professores.
+2019-12-12 11:36:53,605 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:54,231 - INFO - Listando professores.
+2019-12-12 11:36:54,232 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:54,240 - INFO - Listando professores.
+2019-12-12 11:36:54,241 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:54,407 - INFO - Listando professores.
+2019-12-12 11:36:54,408 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:54,414 - INFO - Listando professores.
+2019-12-12 11:36:54,414 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:55,969 - INFO - Listando professores.
+2019-12-12 11:36:55,969 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:55,974 - INFO - Listando professores.
+2019-12-12 11:36:55,975 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:56,163 - INFO - Listando professores.
+2019-12-12 11:36:56,163 - INFO - Professores listados com sucesso.
+2019-12-12 11:36:56,171 - INFO - Listando professores.
+2019-12-12 11:36:56,172 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:04,978 - INFO - Listando professores.
+2019-12-12 11:37:04,978 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:05,339 - INFO - Listando professores.
+2019-12-12 11:37:05,339 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:05,633 - INFO - Listando professores.
+2019-12-12 11:37:05,633 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:05,828 - INFO - Listando professores.
+2019-12-12 11:37:05,829 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:07,525 - INFO - Listando professores.
+2019-12-12 11:37:07,526 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:07,688 - INFO - Listando professores.
+2019-12-12 11:37:07,689 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:29,130 - INFO - Listando professores.
+2019-12-12 11:37:29,131 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:29,139 - INFO - Listando professores.
+2019-12-12 11:37:29,139 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:29,814 - INFO - Listando professores.
+2019-12-12 11:37:29,815 - INFO - Professores listados com sucesso.
+2019-12-12 11:37:29,823 - INFO - Listando professores.
+2019-12-12 11:37:29,824 - INFO - Professores listados com sucesso.
+2019-12-12 11:38:12,933 - INFO - Listando professores.
+2019-12-12 11:38:12,934 - INFO - Professores listados com sucesso.
+2019-12-12 11:38:21,805 - INFO - Listando professores.
+2019-12-12 11:38:21,806 - INFO - Professores listados com sucesso.
+2019-12-12 11:38:22,372 - INFO - Listando professores.
+2019-12-12 11:38:22,372 - INFO - Professores listados com sucesso.
+2019-12-12 11:38:22,548 - INFO - Listando professores.
+2019-12-12 11:38:22,549 - INFO - Professores listados com sucesso.
+2019-12-12 11:39:09,347 - INFO - Listando alunos.
+2019-12-12 11:39:09,347 - INFO - Alunos listado com sucesso.
+2019-12-12 11:40:55,682 - INFO - Listando professores.
+2019-12-12 11:40:55,683 - INFO - Professores listados com sucesso.
+2019-12-12 11:42:32,443 - INFO - Cadastrando professor.
+2019-12-12 11:42:38,864 - INFO - Listando professores.
+2019-12-12 11:42:38,865 - INFO - Professores listados com sucesso.
+2019-12-12 11:42:59,927 - INFO - Cadastrando campus.
+2019-12-12 11:43:00,105 - INFO - campus cadastrado com sucesso.
+2019-12-12 11:46:51,116 - INFO - Cadastrando campus.
+2019-12-12 11:46:51,176 - INFO - campus cadastrado com sucesso.
+2019-12-12 11:49:46,773 - INFO - Listando alunos.
+2019-12-12 11:49:46,773 - INFO - Alunos listado com sucesso.
+2019-12-12 11:49:54,106 - INFO - Listando endereços.
+2019-12-12 11:49:54,107 - INFO - Endereços listados com sucesso.
+2019-12-12 11:50:00,532 - INFO - Listando escolas.
+2019-12-12 11:50:08,175 - INFO - Listando professores.
+2019-12-12 11:50:08,176 - INFO - Professores listados com sucesso.
+2019-12-12 11:50:23,142 - INFO - Listando turnos.
+2019-12-12 11:50:23,143 - INFO - Turnos listados com sucesso.
+2019-12-12 11:50:32,171 - INFO - Listando turnos.
+2019-12-12 11:50:32,171 - INFO - Turnos listados com sucesso.
+2019-12-12 11:50:42,028 - INFO - Listando cursos.
+2019-12-12 11:50:42,029 - INFO - Cursos listados com sucesso.
+2019-12-12 11:50:56,929 - INFO - Listando disciplinas.
+2019-12-12 11:50:56,929 - INFO - Disciplinas listadas com sucesso.
+2019-12-12 11:51:06,555 - INFO - Listando turmas.
+2019-12-12 11:51:06,556 - INFO - Turmas listadas com sucesso.
+2019-12-12 12:02:15,017 - INFO - Listando campus
+2019-12-12 12:02:15,018 - INFO - Campus listados com sucesso.
+2019-12-12 12:02:15,194 - INFO - Listando campus
+2019-12-12 12:02:15,194 - INFO - Campus listados com sucesso.
+2019-12-12 12:02:56,486 - INFO - Listando alunos.
+2019-12-12 12:02:56,487 - INFO - Alunos listado com sucesso.
+2019-12-12 12:02:56,497 - INFO - Listando alunos.
+2019-12-12 12:02:56,497 - INFO - Alunos listado com sucesso.
+2019-12-12 12:03:14,257 - INFO - Listando endereços.
+2019-12-12 12:03:14,258 - INFO - Endereços listados com sucesso.
+2019-12-12 12:03:14,267 - INFO - Listando endereços.
+2019-12-12 12:03:14,268 - INFO - Endereços listados com sucesso.
+2019-12-12 12:03:20,656 - INFO - Listando escolas.
+2019-12-12 12:03:20,667 - INFO - Listando escolas.
+2019-12-12 12:03:25,777 - INFO - Listando professores.
+2019-12-12 12:03:25,778 - INFO - Professores listados com sucesso.
+2019-12-12 12:03:25,788 - INFO - Listando professores.
+2019-12-12 12:03:25,788 - INFO - Professores listados com sucesso.
+2019-12-12 12:03:36,859 - INFO - Listando campus
+2019-12-12 12:03:36,860 - INFO - Campus listados com sucesso.
+2019-12-12 12:03:36,867 - INFO - Listando campus
+2019-12-12 12:03:36,868 - INFO - Campus listados com sucesso.
+2019-12-12 12:03:43,148 - INFO - Listando turnos.
+2019-12-12 12:03:43,149 - INFO - Turnos listados com sucesso.
+2019-12-12 12:03:43,156 - INFO - Listando turnos.
+2019-12-12 12:03:43,156 - INFO - Turnos listados com sucesso.
+2019-12-12 12:03:48,182 - INFO - Listando cursos.
+2019-12-12 12:03:48,183 - INFO - Cursos listados com sucesso.
+2019-12-12 12:03:48,238 - INFO - Listando cursos.
+2019-12-12 12:03:48,238 - INFO - Cursos listados com sucesso.
+2019-12-12 12:03:48,463 - INFO - Listando cursos.
+2019-12-12 12:03:48,464 - INFO - Cursos listados com sucesso.
+2019-12-12 12:03:48,473 - INFO - Listando cursos.
+2019-12-12 12:03:48,474 - INFO - Cursos listados com sucesso.
+2019-12-12 12:03:53,544 - INFO - Listando disciplinas.
+2019-12-12 12:03:53,544 - INFO - Disciplinas listadas com sucesso.
+2019-12-12 12:03:53,551 - INFO - Listando disciplinas.
+2019-12-12 12:03:53,552 - INFO - Disciplinas listadas com sucesso.
+2019-12-12 12:04:00,977 - INFO - Listando turmas.
+2019-12-12 12:04:00,978 - INFO - Turmas listadas com sucesso.
+2019-12-12 12:04:00,986 - INFO - Listando turmas.
+2019-12-12 12:04:00,987 - INFO - Turmas listadas com sucesso.
+2019-12-12 12:04:36,314 - INFO - Cadastrando professor.
+2019-12-12 12:04:38,315 - INFO - Listando professores.
+2019-12-12 12:04:38,316 - INFO - Professores listados com sucesso.
+2019-12-12 12:04:38,325 - INFO - Listando professores.
+2019-12-12 12:04:38,325 - INFO - Professores listados com sucesso.
+2019-12-12 12:04:56,507 - INFO - Cadastrando turno.
+2019-12-12 12:04:56,583 - INFO - Turno cadastrado com sucesso.
+2019-12-12 12:05:00,335 - INFO - Listando turnos.
+2019-12-12 12:05:00,336 - INFO - Turnos listados com sucesso.
+2019-12-12 12:05:00,344 - INFO - Listando turnos.
+2019-12-12 12:05:00,345 - INFO - Turnos listados com sucesso.
+2019-12-12 12:05:15,692 - INFO - Cadastrando turno.
+2019-12-12 12:05:15,765 - INFO - Turno cadastrado com sucesso.
+2019-12-12 13:02:11,712 - INFO - Listando turnos.
+2019-12-12 13:02:11,712 - INFO - Turnos listados com sucesso.
+2019-12-12 13:02:21,047 - INFO - Listando alunos.
+2019-12-12 13:02:21,048 - INFO - Alunos listado com sucesso.
+2019-12-12 13:02:51,690 - INFO - Listando endereços.
+2019-12-12 13:02:51,690 - INFO - Endereços listados com sucesso.
